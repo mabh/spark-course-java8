@@ -10,6 +10,7 @@ import scala.Tuple2;
 
 /*
  * Calculates movies ratings histogram out of movielens ratings data
+ * http://files.grouplens.org/datasets/movielens/ml-100k.zip
  */
 public final class MoviesRatingsHistogramCalculator {
 	public static void main(String[] args) {
